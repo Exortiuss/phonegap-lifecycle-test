@@ -22,7 +22,7 @@ function updateDisplay() {
 	launched_count++;
 	updateDisplay();
 	    
-	alert("device ready");
+	
     }
 
 
